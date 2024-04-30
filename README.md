@@ -20,6 +20,6 @@ Disini saya melanjutkan program game yaitu Flappy Bird dengan menambahkan bebera
 -> Pada saat game over (jatuh ke bawah/ke luar layar)
 ![Screenshot (1075)](https://github.com/rerevana/LP7DPBO2024C2/assets/113984261/62e73d19-f45a-4e4e-9981-bd41253d9929)
 
-# Video Dokumwntasi
+# Video Dokumentasi
 https://github.com/rerevana/LP7DPBO2024C2/assets/113984261/3a10d968-b5c1-4ffe-bea0-c8895be956c7
 
